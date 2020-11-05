@@ -1,0 +1,46 @@
+{
+    "root": {
+        "row": [
+            {
+                "Council": "Wigan Metropolitan Borough Council",
+                "BaseSearchURL": "https://planning.wigan.gov.uk/online-applications/search.do?action=advanced"
+            },
+            {
+                "Council": "Sandwell Metropolitan Borough Council",
+                "BaseSearchURL": "https://webcaps.sandwell.gov.uk/publicaccess/search.do?action=advanced"
+            },
+            {
+                "Council": "London Borough of Lambeth",
+                "BaseSearchURL": "https://planning.lambeth.gov.uk/online-applications/search.do?action=advanced"
+            },
+            {
+                "Council": "London Borough of Tower Hamlets",
+                "BaseSearchURL": "https://development.towerhamlets.gov.uk/online-applications/search.do?action=advanced"
+            },
+            {
+                "Council": "Wirral Council",
+                "BaseSearchURL": "https://planning.wirral.gov.uk/online-applications/search.do?action=advanced"
+            },
+            {
+                "Council": "Shropshire Council - Unitary",
+                "BaseSearchURL": "https://pa.shropshire.gov.uk/online-applications/search.do?action=advanced"
+            },
+            {
+                "Council": "Northumberland Council",
+                "BaseSearchURL": "https://publicaccess.northumberland.gov.uk/online-applications/search.do?action=advanced"
+            },
+            {
+                "Council": "London Borough of Southwark",
+                "BaseSearchURL": "https://planning.southwark.gov.uk/online-applications/search.do?action=advanced"
+            },
+            {
+                "Council": "Doncaster Metropolitan Borough Council",
+                "BaseSearchURL": "https://planning.doncaster.gov.uk/online-applications/search.do?action=advanced"
+            },
+            {
+                "Council": "Newcastle-Under-Lyme District Council",
+                "BaseSearchURL": "https://publicaccess.newcastle-staffs.gov.uk/online-applications/search.do?action=advanced"
+            }
+        ]
+    }
+}
