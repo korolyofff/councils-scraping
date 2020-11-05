@@ -30,7 +30,6 @@ class Cliker:
 
         fireFoxOptions = webdriver.FirefoxOptions()
         # fireFoxOptions.headless = True
-
         try:
             self.driver = webdriver.Firefox(seleniumwire_options=self.options, firefox_profile=firefox_profile,
                                             firefox_options=fireFoxOptions)
@@ -108,7 +107,7 @@ class Cliker:
                 sleep(1)
                 try:
                     WebDriverWait(self.driver, 30).until(
-                        EC.presence_of_element_located((By.CSS_SELECTOR, '#searchResults > input[type=hidden]:nth-child(3)')))
+                        EC.presence_of_element_located((By.CSS_SELECTOR, '.button')))
                 except:
                     print('No such element exception')
                     pass

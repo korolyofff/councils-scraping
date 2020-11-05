@@ -2,14 +2,6 @@
     "root": {
         "row": [
             {
-                "Council": "Wigan Metropolitan Borough Council",
-                "BaseSearchURL": "https://planning.wigan.gov.uk/online-applications/search.do?action=advanced"
-            },
-            {
-                "Council": "Sandwell Metropolitan Borough Council",
-                "BaseSearchURL": "https://webcaps.sandwell.gov.uk/publicaccess/search.do?action=advanced"
-            },
-            {
                 "Council": "London Borough of Lambeth",
                 "BaseSearchURL": "https://planning.lambeth.gov.uk/online-applications/search.do?action=advanced"
             },
